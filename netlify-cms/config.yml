@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: askcreative/asksite # Change to your repo
+  repo: jrah/teadictionary-netlify # Change to your repo
   url: https://competent-poitras-41420e.netlify.com # Change to your repo
   #url: http://localhost:3000
 
