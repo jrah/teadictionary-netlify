@@ -53,7 +53,7 @@ module.exports = {
     'nuxt-netlify-cms'
   ],
   sitemap: {
-    hostname: 'https://asksite.netlify.com',
+    hostname: 'https://competent-poitras-41420e.netlify.com',
     generate: true, // Enable me when using nuxt generate
     exclude: [
       '/admin',

@@ -23,9 +23,9 @@ module.exports = {
       page: 'blog/_post',
       permalink: ':year/:slug',
       isPost: true,
-      generate: [ 
-        'get', 
-        'getAll' 
+      generate: [
+        'get',
+        'getAll'
       ],
       }
     ],
@@ -35,15 +35,15 @@ module.exports = {
         page: 'info/_page',
         permalink: ':slug',
         isPost: false,
-        generate: [ 
-          'get', 
-          'getAll' 
+        generate: [
+          'get',
+          'getAll'
         ],
       }
     ]
   ],
   api: {
     baseURL: 'http://localhost:3000',
-    browserBaseURL: 'https://asksite.netlify.com'
+    browserBaseURL: 'https://competent-poitras-41420e.netlify.com'
   }
 }
